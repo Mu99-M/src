@@ -1,0 +1,2 @@
+
+float32[3] xyz          # torque setpoint about X, Y, Z body axis (normalized)
